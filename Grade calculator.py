@@ -1,15 +1,15 @@
 n = int(input("Enter your score in 100:"))
 if (n>=90):
-print ("A+")
+   print ("A+")
 elif (n>80):
-print ("A")
+   print ("A")
 elif (n>70):
-print("B+")
+   print("B+")
 elif(n>60):
-print("B")
+   print("B")
 elif(n>50):
-print("C+")
+   print("C+")
 elif(n>40):
-print("PASS")
+   print("PASS")
 else:
-print("FAIL")
+   print("FAIL")
