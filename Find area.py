@@ -1,3 +1,3 @@
 rad = float(input("Enter the radius"))
-area = math.pi*rad*rad
+area = 3.14*rad*rad
 print("The area is",area)
